@@ -1,0 +1,48 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(Screenshot\ 2024-11-09\ 023706.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content h2{
+    font-size: 100px;
+    font-weight: 900;
+    
+}
+.content p{
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 50px;
+    
+}
+.content button{
+    font-size: 30px;
+    font-weight: 100;
+    width: 300px;
+    height: 100px;
+    background-color: crimson;
+    border:  1px solid snow;
+    border-radius: 20px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.content button:hover{
+    font-size: 30px;
+    font-weight: 100;
+    width: 300px;
+    height: 100px;
+    background-color: tomato;
+    border:  1px solid snow;
+    border-radius: 20px;
+    color: #fff;
+}
